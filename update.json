@@ -1,0 +1,17 @@
+{
+  "tag": "v0.3.0",
+  "url": "https://github.com/lightcyde/firepress-dist/releases/tag/v0.3.0",
+  "generated": "2026-08-26T21:58:23Z",
+  "artifacts": {
+    "firepress-pagebuilder": {
+      "version": "0.3.0",
+      "package": "https://github.com/lightcyde/firepress-dist/releases/download/v0.3.0/firepress-pagebuilder.zip",
+      "requires_php": "8.1"
+    },
+    "firepress-theme": {
+      "version": "0.3.0",
+      "package": "https://github.com/lightcyde/firepress-dist/releases/download/v0.3.0/firepress-theme.zip",
+      "requires_php": "8.1"
+    }
+  }
+}
