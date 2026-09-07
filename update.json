@@ -1,16 +1,16 @@
 {
-  "tag": "v0.6.4",
-  "url": "https://github.com/lightcyde/firepress-dist/releases/tag/v0.6.4",
-  "generated": "2026-09-06T09:42:49Z",
+  "tag": "v0.7.0",
+  "url": "https://github.com/lightcyde/firepress-dist/releases/tag/v0.7.0",
+  "generated": "2026-09-07T12:49:25Z",
   "artifacts": {
     "firepress-pagebuilder": {
-      "version": "0.6.4",
-      "package": "https://github.com/lightcyde/firepress-dist/releases/download/v0.6.4/firepress-pagebuilder.zip",
+      "version": "0.7.0",
+      "package": "https://github.com/lightcyde/firepress-dist/releases/download/v0.7.0/firepress-pagebuilder.zip",
       "requires_php": "8.2"
     },
     "firepress-theme": {
-      "version": "0.6.4",
-      "package": "https://github.com/lightcyde/firepress-dist/releases/download/v0.6.4/firepress-theme.zip",
+      "version": "0.7.0",
+      "package": "https://github.com/lightcyde/firepress-dist/releases/download/v0.7.0/firepress-theme.zip",
       "requires_php": "8.2"
     }
   }
